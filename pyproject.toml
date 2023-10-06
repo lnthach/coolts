@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "coolts"
-version = "0.0.2"
+version = "0.0.3"
 authors = [  { name="Thach Le Nguyen", email="thach.lenguyen@ucd.ie" },]
 description = "A cool time series package"
 readme = "README.md"
